@@ -1,0 +1,10 @@
+{
+    "mail" : {
+        "host" : "yourserver.smtp.com",
+        "port" : 587,
+        "username" : "yourusername",
+        "password" : "yourpassword",
+        "starttls" : true
+    },
+    "history" : "audit"
+}
